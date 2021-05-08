@@ -21,6 +21,7 @@ frontend/node_modules/
 .env.production.local
 .vscode
 .eslintcashe
+frontend/.eslintcashe
 
 npm-debug.log*
 yarn-debug.log*
